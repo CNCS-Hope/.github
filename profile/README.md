@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNCS-Hope)](https://github.com/orgs/CNCS-Hope/repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNCS-Hope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 欢迎来到 CNCS_Hope！
 
